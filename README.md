@@ -2,9 +2,9 @@
 I'm Arman Hossain, a dynamic and enthusiastic BSc CSE student with a strong passion for web development, machine learning (ML), and artificial intelligence (AI). I thrive on learning new technologies, building impactful projects, and contributing to the tech community.
 
 💻 What I Do:
--**Frontend Developer:** Skilled in React, Tailwind CSS, and modern web development practices.
--**Educator & Contributor:** Course contributor at ACS Group with over 1.5 years of experience, helping learners achieve their goals.
--**Dreamer in Tech:** Exploring fields like Blockchain and Cloud Computing while developing innovative solutions.
+- **Frontend Developer:** Skilled in React, Tailwind CSS, and modern web development practices.
+- **Educator & Contributor:** Course contributor at ACS Group with over 1.5 years of experience, helping learners achieve their goals.
+- **Dreamer in Tech:** Exploring fields like Blockchain and Cloud Computing while developing innovative solutions.
 
 Here are some ideas to get you started:
 
